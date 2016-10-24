@@ -57,3 +57,7 @@ $ git clone https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner
 $ cd DeepMInd-Atari-
 
 $ ./run_cpu breakout
+
+# Youtube demo video is here.
+
+https://youtu.be/GDa8r0MXNhA
